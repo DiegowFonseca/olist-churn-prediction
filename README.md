@@ -6,7 +6,7 @@
 
 ---
 
-📌 ## Descrição do Projeto
+## 📌 Descrição do Projeto
 
 Este repositório contém o desenvolvimento de uma solução de *Data Science* para a Olist, focada na previsão de cancelamento de clientes (churn). O objetivo principal é construir um modelo de machine learning que identifique clientes com alta probabilidade de churn, permitindo a criação de campanhas de retenção proativas para minimizar perdas de receita e aumentar a fidelidade do cliente.
 
@@ -18,7 +18,7 @@ Este repositório contém o desenvolvimento de uma solução de *Data Science* p
 
 ---
 
-💼 ## Entendimento do Negócio
+## 💼 Entendimento do Negócio
 
 No competitivo mercado de e-commerce, o custo de aquisição de um novo cliente é significativamente maior do que o custo de reter um cliente existente. O churn (cancelamento) representa uma perda direta de receita e um indicador da saúde do negócio e da satisfação do cliente.
 
@@ -33,7 +33,7 @@ Este projeto utiliza dados transacionais e de comportamento para desenvolver um 
 
 ---
 
-🛠️ ## Pré-Processamento dos Dados
+## 🛠️ Pré-Processamento dos Dados
 
 Para garantir a qualidade e a relevância das informações, foram realizadas as seguintes etapas de pré-processamento:
 
@@ -46,7 +46,7 @@ Para garantir a qualidade e a relevância das informações, foram realizadas as
 
 ---
 
-🤖 ## Modelagem
+## 🤖 Modelagem
 
 O problema de churn é caracterizado por um desbalanceamento de classes, onde o número de clientes que dão churn é muito menor que o de clientes ativos. Essa característica foi considerada durante todo o processo de modelagem.
 
@@ -81,7 +81,7 @@ A alta revocação indica que o modelo é capaz de identificar 72% de todos os c
 
 ---
 
-💡 ## Desempenho Financeiro e Estratégia
+## 💡 Desempenho Financeiro e Estratégia
 
 O verdadeiro valor de um modelo preditivo está em seu impacto no negócio. Simulamos a implementação do modelo em um cenário real para quantificar seu retorno financeiro.
 
@@ -98,7 +98,7 @@ A análise SHAP aprofunda esse resultado, mostrando que a **otimização da pol�
 
 ---
 
-🚧 ## Próximos Passos
+## 🚧 Próximos Passos
 
 Para evoluir este projeto, os próximos passos recomendados são:
 
